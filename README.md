@@ -1,6 +1,12 @@
-## Hi there 👋
+ Hi there 👋
 ## I am a cs and ai development major, producing odd codes for the fun of it. 
-## The seas part for we alone.
+## first of all, dont compare me to that walking pr hazard. Second of all, I'm the strongest dude.
+
+Current projects: minesweeper copy with difficulties, hang man with various difficulties, and game alteration codes.
+
+personal information: I am a 19 year old computer science major who is double majoring in ai development. I have done IT work as well as website alterations. Currently, I am focused on testing the limits of premade codes for video games, websites and more in order to see if I can increase the output for them. 
+
+
 
 <!--
 **Elite26/Elite26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
