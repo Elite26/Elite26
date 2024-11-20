@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I am a cs and ai development major, producing odd codes for the fun of it. 
+## The seas part for we alone.
 
 <!--
 **Elite26/Elite26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
